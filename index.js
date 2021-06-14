@@ -15,7 +15,7 @@ const request = require('request-promise');
 // Replace <your_access_token> below with a token from your ion account.
 // This example requires a token with assets:list, assets:read, and assets:write scopes.
 // Tokens page: https://cesium.com/ion/tokens
-const accessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxM2RkMjE1Mi1jYTA5LTRhZjktYjEyNy05Y2Y0ODQwNmViZjQiLCJpZCI6NTc0MDEsImlhdCI6MTYyMzY3NjM2OH0.ia5389RCbdz84yY-JIC4FzDwegT5vHoqrtTuboXH5bc';
+const accessToken = <access-token-here>;
 
 // Sample data is already included in this repository, but you can modify the below
 // path to point to any CityGML data you would like to upload.
