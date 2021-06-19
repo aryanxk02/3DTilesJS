@@ -12,13 +12,13 @@ The following modules needs to be installed.
 - Setting up S3 compatible Library
 
 ```
-npm aws-sdk
+npm install aws-sdk
 ```
 -  Perform data upload
 ```
-npm fs
+npm install fs
 ```
 - Running JS file locally on machine
 ```
-npm index.js
+node index.js
 ```
